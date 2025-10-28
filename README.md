@@ -21,7 +21,7 @@ A clean, responsive, and visually appealing **Rock Paper Scissors** game built w
 
 ## 🚀 Live Demo
 
-👉 [Play the game now!](https://your-github-pages-link.github.io/rock-paper-scissors)  
+👉 [Play the game now!](https://rock-paper-scissors-azure-one-79.vercel.app/)  
 
 
 
